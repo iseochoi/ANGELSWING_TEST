@@ -1,0 +1,10 @@
+# Image path
+train: ./dataset/train.txt  
+val: ./dataset/valid.txt  
+
+# number of classes
+nc: 2
+
+# class names
+names: [ 'cat', 'dog']
+
